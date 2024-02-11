@@ -1,8 +1,6 @@
-# quiz-conceitos-javascript
+🚀 Tecnologias
+Esse projeto foi desenvolvido com as seguintes tecnologias:
 
-## técnologias usadas:
-
--Html
--Css
--JavaScrip
--GitHub
+-HTML e CSS
+-JavaScript
+-Github
